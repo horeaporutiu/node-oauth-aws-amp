@@ -1,0 +1,18 @@
+{
+  "name": "node-oauth",
+  "version": "1.0.0",
+  "description": "Implement the OAuth 2.0 authorization code grant flow to make Miro REST API calls. This app uses Node.js, Express.js, and Axios.",
+  "keywords": ["Express.js", "Axios", "Node.js"],
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
