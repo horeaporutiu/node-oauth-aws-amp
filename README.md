@@ -1,6 +1,6 @@
 # OAuth 2.0 Node.js App Example
 
-This app shows how to implement the OAuth 2.0 authorization code grant flow to make Miro REST API calls.
+This app shows how to implement the OAuth 2.0 authorization code grant flow to make Miro REST API calls.  
 
 # 👨🏻‍💻 App Demo
 
